@@ -1,0 +1,3 @@
+# Download the contents of this folder at this [link](https://figshare.com/articles/common_repns_production_recognition_data/4503092)
+
+This folder is supposed to contain all data and DNN layers needed for the notebook to run, but since they are too big for github, you need to manually download all files from [this page](https://figshare.com/articles/common_repns_production_recognition_data/4503092) and unzip them in this directory.
