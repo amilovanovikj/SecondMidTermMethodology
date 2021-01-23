@@ -5,6 +5,7 @@ RUN mkdir src
 WORKDIR src/
 COPY . .
 RUN sh install_requirements.sh
+RUN python -m sos_notebook.install
 RUN pip3 install jupyter
 
 # Add Tini. Tini operates as a process subreaper for jupyter. This prevents kernel crashes.

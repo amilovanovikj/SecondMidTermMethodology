@@ -6,6 +6,5 @@ seaborn==0.10.0
 prettyplotlib==0.1.7
 plotly==4.14.3
 ipykernel==5.1.4
-sos==0.22.4             
-sos-javascript==0.18.1             
+sos==0.22.4                          
 sos-notebook==0.22.4 
